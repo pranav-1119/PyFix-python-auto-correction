@@ -1,5 +1,5 @@
-# PyFix-python-auto-correction
-# PyFix - Python Auto-Correction and Error Solver
+
+# pyfix.py - Python Auto-Correction and Error Solver
 
 ## Project Overview
 
