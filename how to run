@@ -1,0 +1,12 @@
+## How to Run
+
+### 1. Install Python
+
+Make sure Python 3.8 or higher is installed on your system.
+
+### 2. Install Dependencies
+
+Open Command Prompt or Terminal in the project folder and run:
+
+```bash
+pip install -r requirements.txt
